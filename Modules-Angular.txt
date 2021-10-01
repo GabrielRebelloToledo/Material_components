@@ -1,5 +1,9 @@
-No cmd dentro da pasta do projeto, inicie o seguinte codigo 
-Código ---> ng g m material
+No cmd dentro da pasta do projeto, inicie os seguintes códigos
+Código 1)---> npm i @angular/material 
+Código 2)---> ng add @angular/material - tema sua preferencia, nos outros campos tecle "y" e enter
+Código 3)---> ng g m material
+
+Abra seu projeto e localize o arquivo criado com nome de material e siga a instrução abaixo.
 
 Cole dentro todas as importações a seguir
 
