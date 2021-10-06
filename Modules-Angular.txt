@@ -77,3 +77,5 @@ exports: [
 
 após isso salve o arquivo e navegue até app.module.ts no campo imports 
 referencie o arquivo MaterialModule, criado anteriormente, clique para importar e depois clique em salvar
+
+OBS: caso de propblema na classe de exportação, salve, feche o projeto e abra novamente.
